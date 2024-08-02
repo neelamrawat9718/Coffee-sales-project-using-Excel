@@ -1,4 +1,4 @@
-Coffee Sales: Data Analysis and Visualization with Excel
+
 
 Project Name-Coffee Sales: Data Analysis and Visualization with Excel
 
