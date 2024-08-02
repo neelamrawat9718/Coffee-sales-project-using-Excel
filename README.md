@@ -1,4 +1,5 @@
-# Coffee-sales-project-using-Excel
+Coffee Sales: Data Analysis and Visualization with Excel
+
 Project Name- Coffee Sales
 
 Project Overview-The project aims to conduct visualization of various aspects of sales of coffee and find out the insights into sales of coffee,with actionable insights to optimize its sales strategies, drive revenue growth and sales,enhance the customer behavior.
